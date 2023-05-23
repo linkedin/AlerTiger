@@ -168,4 +168,4 @@ TODO: We will add the link to our paper here once the paper is published.
 ## License
 
 Copyright (c) LinkedIn Corporation. All rights reserved. Licensed under
-the [BSD 2-Clause](https://opensource.org/licenses/BSD-2-Clause) License.
+the [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode) License.
