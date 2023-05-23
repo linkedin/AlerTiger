@@ -1,7 +1,6 @@
 # AlerTiger: A Deep-learning Time Series Anomaly Detection Framework
 
-AlerTiger is a deep-learning-based time series anomaly detection algorithm designed for monitoring AI models' healthiness
-statistics.
+AlerTiger is a deep-learning-based time series anomaly detection algorithm designed for monitoring AI models' healthiness.
 
 As a generic time series anomaly detection framework for MLOps, AlerTiger be pre-trained offline with a set of univariate
 time series with anomaly labeled, and then be generically deployed online for detecting anomalies without much
