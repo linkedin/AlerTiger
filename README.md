@@ -67,11 +67,11 @@ here at https://developer.apple.com/metal/tensorflow-plugin/ instead of `pip ins
     pip3 install -U pip
     pip3 install -U setuptools
     ```
-1. Download AlerTiger code from GitHub (Note: This link will be updated once fully OpenSourced). We will later make
+1. Download AlerTiger code from GitHub. We will later make
    AlerTiger available on PyPI, and right now can be installed via `git clone`.
 
     ```shell script
-    git clone git@linkedin.ghe.com:zhexu/AlerTiger.git
+    git clone git@github.com/linkedin/AlerTiger.git
     ```
 1. Install the dependency libraries
     ```sh
